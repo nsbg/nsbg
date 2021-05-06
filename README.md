@@ -2,7 +2,7 @@
 
 ✍ Major in Computer Engineering  
 🔍 **Interested in Artificial Intelligence**   
-🌱 Currently learning `ML`, `Algorithm`, `Web` etc.  
+🌱 2020. 02. ~ learning `Algorithm`  
 🌞 PNU Likelion 8th / DSC PKNU 1st   
 📞 epdlsemgks872@gmail.com   
 
